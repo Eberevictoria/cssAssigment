@@ -8,7 +8,7 @@
     text-align: center;
 }
 .like_list ol h2 {
-    color: red;
+    color: blue;
     text-align: center;
 }
 #header1_list li {
@@ -16,7 +16,7 @@
     text-justify: distribute;
     font-size:2em ;
     justify-content: center;
-    color: brown;
+    color: red;
     opacity: 60%;
 }
 .header2 h2 {
